@@ -1,0 +1,1 @@
+该项目参考https://github.com/PracticingMan/chinese_text_cnn。
